@@ -1,0 +1,16 @@
+.inner{
+    margin-top: 20px;
+    width: 350px;
+    border-right: 1px solid grey;
+}
+
+
+.esas{
+    background-color: orange;
+    border: none;
+    border-radius:5px ;
+    padding: 5px;
+    display: block;
+    margin: auto;
+    color: white;
+}
